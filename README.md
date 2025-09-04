@@ -23,6 +23,8 @@ It demonstrates how phonon modes arise from collective atomic oscillations and h
   - Atomic displacements over selected times.  
   - Phonon dispersion relation (frequency vs. wavevector).  
   - Animated GIF of lattice vibrations.
+ 
+  - ![](figures_lattice/displacements_over_time.png)
 
  **Output**  
   All results (figures and animation) are saved in the `figures_lattice/` directory.
